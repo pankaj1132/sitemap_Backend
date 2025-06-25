@@ -1,0 +1,772 @@
+{
+  "products": [
+    {
+      "name": "Organic Cotton T-Shirt",
+      "price": 25,
+      "description": "Soft and breathable organic cotton t-shirt in various colors. Perfect for everyday wear with a comfortable fit.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+      "sustainability": "100% organic cotton, fair trade certified"
+    },
+    {
+      "name": "Bamboo Cutlery Set",
+      "price": 18,
+      "description": "Complete bamboo cutlery set with carrying case. Includes fork, knife, spoon, and chopsticks.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=400&fit=crop",
+      "sustainability": "Biodegradable bamboo, reusable for years"
+    },
+    {
+      "name": "Reusable Water Bottle",
+      "price": 22,
+      "description": "Stainless steel insulated water bottle keeps drinks cold for 24h or hot for 12h. Leak-proof design.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop",
+      "sustainability": "BPA-free, reduces plastic waste"
+    },
+    {
+      "name": "Solar Power Bank",
+      "price": 45,
+      "description": "Portable solar charger for phones and devices. 20000mAh capacity with fast charging capabilities.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, reduces grid electricity usage"
+    },
+    {
+      "name": "Eco-Friendly Sneakers",
+      "price": 85,
+      "description": "Comfortable sneakers made from recycled materials. Breathable design with excellent cushioning.",
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop",
+      "sustainability": "Made from 90% recycled ocean plastic"
+    },
+    {
+      "name": "Beeswax Food Wraps",
+      "price": 16,
+      "description": "Natural alternative to plastic wrap, set of 3 different sizes. Perfect for food storage.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+      "sustainability": "Biodegradable, reusable, plastic-free"
+    },
+    {
+      "name": "Bamboo Toothbrush Set",
+      "price": 12,
+      "description": "Set of 4 biodegradable bamboo toothbrushes. Soft bristles suitable for sensitive teeth.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=400&h=400&fit=crop",
+      "sustainability": "Biodegradable handle, soft bristles"
+    },
+    {
+      "name": "Organic Hemp Backpack",
+      "price": 65,
+      "description": "Durable and stylish backpack made from organic hemp. Multiple compartments for organization.",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "sustainability": "Organic hemp fiber, long-lasting design"
+    },
+    {
+      "name": "LED Solar Garden Lights",
+      "price": 35,
+      "description": "Set of 6 solar-powered LED garden stake lights. Automatic on/off with dusk sensors.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, no electricity needed"
+    },
+    {
+      "name": "Recycled Yoga Mat",
+      "price": 28,
+      "description": "Non-slip yoga mat made from recycled rubber. 6mm thickness for comfort and stability.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1506629905607-45e5959ee862?w=400&h=400&fit=crop",
+      "sustainability": "Made from recycled tires, toxic-free"
+    },
+    {
+      "name": "Organic Cotton Bedsheet Set",
+      "price": 75,
+      "description": "Soft and comfortable organic cotton bedsheets. Includes fitted sheet, flat sheet, and pillowcases.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "GOTS certified organic cotton"
+    },
+    {
+      "name": "Compost Bin",
+      "price": 42,
+      "description": "Kitchen countertop compost bin with charcoal filter. Odor-free composting solution.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=400&h=400&fit=crop",
+      "sustainability": "Reduces food waste, creates nutrient-rich soil"
+    },
+    {
+      "name": "Biodegradable Phone Case",
+      "price": 19,
+      "description": "Protective phone case made from plant-based materials. Available for most phone models.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=400&h=400&fit=crop",
+      "sustainability": "Compostable within 6 months"
+    },
+    {
+      "name": "Organic Skincare Set",
+      "price": 38,
+      "description": "Natural skincare set with cleanser, toner, and moisturizer. Suitable for all skin types.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "Organic ingredients, cruelty-free"
+    },
+    {
+      "name": "Upcycled Denim Jacket",
+      "price": 55,
+      "description": "Stylish jacket made from upcycled denim materials. Unique design with vintage appeal.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=400&fit=crop",
+      "sustainability": "Upcycled materials, zero waste production"
+    },
+    {
+      "name": "Stainless Steel Lunch Box",
+      "price": 32,
+      "description": "Multi-compartment lunch box for plastic-free meals. Leak-proof with secure locking system.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=400&fit=crop",
+      "sustainability": "Plastic-free, dishwasher safe"
+    },
+    {
+      "name": "Cork Yoga Blocks",
+      "price": 24,
+      "description": "Set of 2 sustainable cork yoga blocks. Lightweight yet sturdy for all yoga poses.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable cork harvest, antimicrobial"
+    },
+    {
+      "name": "Eco Cleaning Kit",
+      "price": 29,
+      "description": "Natural cleaning products kit for the whole home. Includes multi-surface cleaner and microfiber cloths.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Plant-based ingredients, biodegradable"
+    },
+    {
+      "name": "Organic Cotton Tote Bag",
+      "price": 14,
+      "description": "Reusable shopping tote bag with organic cotton. Spacious design with reinforced handles.",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "sustainability": "GOTS certified organic cotton, machine washable"
+    },
+    {
+      "name": "Wooden Desk Organizer",
+      "price": 36,
+      "description": "Handcrafted bamboo desk organizer with multiple compartments. Perfect for office organization.",
+      "category": "Office",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable bamboo, handcrafted by artisans"
+    },
+    {
+      "name": "Plant-Based Protein Powder",
+      "price": 32,
+      "description": "Organic plant-based protein powder blend. Vanilla flavor with 25g protein per serving.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop",
+      "sustainability": "Organic ingredients, minimal packaging"
+    },
+    {
+      "name": "Recycled Notebook Set",
+      "price": 15,
+      "description": "Set of 3 notebooks made from recycled paper. Dotted, lined, and blank pages included.",
+      "category": "Office",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "sustainability": "100% recycled paper, soy-based ink"
+    },
+    {
+      "name": "Ceramic Travel Mug",
+      "price": 26,
+      "description": "Double-walled ceramic travel mug with silicone lid. Keeps beverages hot for hours.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+      "sustainability": "Lead-free ceramic, plastic-free alternative"
+    },
+    {
+      "name": "Organic Wool Socks",
+      "price": 18,
+      "description": "Warm and comfortable organic wool socks. Moisture-wicking and odor-resistant.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1586350670222-8b2e0c0a2c11?w=400&h=400&fit=crop",
+      "sustainability": "Ethically sourced merino wool, biodegradable"
+    },
+    {
+      "name": "Seed Starter Kit",
+      "price": 22,
+      "description": "Complete seed starter kit for growing herbs and vegetables. Includes seeds, pots, and soil.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+      "sustainability": "Promotes home growing, reduces food miles"
+    },
+    {
+      "name": "Recycled Glass Tumbler Set",
+      "price": 28,
+      "description": "Set of 4 drinking glasses made from recycled bottles. Unique texture and eco-conscious design.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=400&h=400&fit=crop",
+      "sustainability": "Made from 100% recycled glass bottles"
+    },
+    {
+      "name": "Organic Lavender Pillow",
+      "price": 34,
+      "description": "Natural sleep aid pillow filled with organic lavender. Promotes relaxation and better sleep.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1586227740560-8cf2732c1531?w=400&h=400&fit=crop",
+      "sustainability": "Organic lavender, natural cotton cover"
+    },
+    {
+      "name": "Solar Window Thermometer",
+      "price": 16,
+      "description": "Digital thermometer powered by solar panel. Indoor/outdoor temperature display with memory function.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, no batteries required"
+    },
+    {
+      "name": "Hemp Protein Bar Pack",
+      "price": 24,
+      "description": "Pack of 12 organic hemp protein bars. Chocolate flavor with 15g plant protein per bar.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1564671165093-20688ff1fffa?w=400&h=400&fit=crop",
+      "sustainability": "Organic hemp protein, minimal packaging"
+    },
+    {
+      "name": "Bamboo Sunglasses",
+      "price": 39,
+      "description": "Stylish sunglasses with bamboo frame. UV400 protection with polarized lenses.",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable bamboo frame, recyclable lenses"
+    },
+    {
+      "name": "Organic Cotton Baby Onesie",
+      "price": 16,
+      "description": "Soft organic cotton onesie for babies. Hypoallergenic and gentle on sensitive skin.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=400&h=400&fit=crop",
+      "sustainability": "GOTS certified organic cotton, non-toxic dyes"
+    },
+    {
+      "name": "Eco-Friendly Dog Toys",
+      "price": 21,
+      "description": "Set of 3 dog toys made from natural rubber and organic cotton rope. Safe and sustainable.",
+      "category": "Pet Care",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop",
+      "sustainability": "Natural rubber, organic cotton, biodegradable"
+    },
+    {
+      "name": "Mushroom Leather Wallet",
+      "price": 45,
+      "description": "Innovative wallet made from mushroom leather. Durable and water-resistant with RFID blocking.",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "sustainability": "Mushroom-based vegan leather, plastic-free"
+    },
+    {
+      "name": "Solar String Lights",
+      "price": 19,
+      "description": "20ft waterproof solar string lights with 50 LED bulbs. Perfect for outdoor decoration.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, energy efficient LED bulbs"
+    },
+    {
+      "name": "Coconut Bowl Set",
+      "price": 23,
+      "description": "Set of 2 bowls made from reclaimed coconut shells. Perfect for smoothie bowls and salads.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+      "sustainability": "Upcycled coconut shells, handcrafted"
+    },
+    {
+      "name": "Organic Green Tea Blend",
+      "price": 18,
+      "description": "Premium organic green tea blend with jasmine flowers. 50 biodegradable tea bags included.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+      "sustainability": "Organic tea leaves, biodegradable packaging"
+    },
+    {
+      "name": "Recycled Plastic Picnic Blanket",
+      "price": 32,
+      "description": "Waterproof picnic blanket made from recycled plastic bottles. Foldable with carrying case.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Made from 40 recycled plastic bottles"
+    },
+    {
+      "name": "Natural Loofah Sponge Set",
+      "price": 12,
+      "description": "Set of 3 natural loofah sponges for body exfoliation. Biodegradable and plastic-free.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "100% natural loofah, biodegradable"
+    },
+    {
+      "name": "Wind-Up Emergency Radio",
+      "price": 35,
+      "description": "Hand-crank emergency radio with LED flashlight. No batteries required, weather alerts included.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop",
+      "sustainability": "Human-powered, no battery waste"
+    },
+    {
+      "name": "Organic Cotton Face Masks",
+      "price": 15,
+      "description": "Pack of 5 reusable face masks made from organic cotton. Comfortable fit with adjustable straps.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton, reusable, machine washable"
+    },
+    {
+      "name": "Recycled Tire Planters",
+      "price": 29,
+      "description": "Set of 3 decorative planters made from recycled car tires. Perfect for herbs and small plants.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+      "sustainability": "Upcycled tires, promotes urban gardening"
+    },
+    {
+      "name": "Bamboo Kitchen Utensil Set",
+      "price": 26,
+      "description": "Complete 6-piece bamboo kitchen utensil set with holder. Heat-resistant and durable.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable bamboo, plastic-free alternative"
+    },
+    {
+      "name": "Organic Shampoo Bar",
+      "price": 14,
+      "description": "Zero-waste shampoo bar with organic ingredients. Suitable for all hair types, long-lasting.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "Plastic-free packaging, organic ingredients"
+    },
+    {
+      "name": "Seagrass Storage Baskets",
+      "price": 38,
+      "description": "Set of 3 handwoven seagrass baskets for storage. Natural and sustainable home organization.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Sustainably harvested seagrass, handcrafted"
+    },
+    {
+      "name": "Organic Cotton Hammock",
+      "price": 68,
+      "description": "Comfortable outdoor hammock made from organic cotton rope. Includes tree straps for easy setup.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton rope, supports fair trade"
+    },
+    {
+      "name": "Eco-Friendly Car Wash Kit",
+      "price": 31,
+      "description": "Waterless car wash kit with biodegradable cleaners and microfiber cloths. No water needed.",
+      "category": "Automotive",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Water-saving, biodegradable formula"
+    },
+    {
+      "name": "Recycled Paper Notebooks",
+      "price": 13,
+      "description": "Pack of 5 small notebooks made from recycled paper. Perfect for notes and sketching.",
+      "category": "Office",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "sustainability": "100% recycled paper, tree-free production"
+    },
+    {
+      "name": "Natural Rubber Yoga Mat",
+      "price": 48,
+      "description": "Premium yoga mat made from natural tree rubber. Excellent grip and eco-friendly design.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1506629905607-45e5959ee862?w=400&h=400&fit=crop",
+      "sustainability": "Natural rubber, biodegradable material"
+    },
+    {
+      "name": "Organic Herb Garden Kit",
+      "price": 27,
+      "description": "Indoor herb garden kit with organic seeds for basil, mint, and parsley. Includes pots and soil.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+      "sustainability": "Organic seeds, promotes home growing"
+    },
+    {
+      "name": "Bamboo Phone Stand",
+      "price": 17,
+      "description": "Adjustable bamboo phone stand for desk or bedside. Compatible with all phone sizes.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable bamboo, minimal packaging"
+    },
+    {
+      "name": "Organic Cotton Baby Blanket",
+      "price": 42,
+      "description": "Soft and warm baby blanket made from 100% organic cotton. Hypoallergenic and machine washable.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=400&h=400&fit=crop",
+      "sustainability": "GOTS certified organic cotton, non-toxic"
+    },
+    {
+      "name": "Solar Fountain Pump",
+      "price": 52,
+      "description": "Solar-powered water fountain pump for gardens and ponds. Multiple fountain heads included.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, energy efficient operation"
+    },
+    {
+      "name": "Reusable Produce Bags",
+      "price": 11,
+      "description": "Set of 6 mesh produce bags in different sizes. Lightweight and see-through for easy shopping.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+      "sustainability": "Reduces plastic bag usage, machine washable"
+    },
+    {
+      "name": "Eco-Friendly Art Supplies",
+      "price": 33,
+      "description": "Art supply kit with recycled paper sketchbook, bamboo pencils, and natural pigment paints.",
+      "category": "Arts & Crafts",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "sustainability": "Recycled materials, non-toxic pigments"
+    },
+    {
+      "name": "Organic Cotton Dish Towels",
+      "price": 19,
+      "description": "Set of 4 absorbent dish towels made from organic cotton. Lint-free and quick-drying.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton, plastic-free packaging"
+    },
+    {
+      "name": "Biodegradable Coffee Pods",
+      "price": 24,
+      "description": "Pack of 50 compostable coffee pods compatible with most machines. Fair trade organic coffee.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+      "sustainability": "100% compostable, fair trade certified"
+    },
+    {
+      "name": "Recycled Steel Water Bottle",
+      "price": 28,
+      "description": "Insulated water bottle made from recycled steel. Keeps drinks cold for 36 hours, hot for 18 hours.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop",
+      "sustainability": "90% recycled steel, BPA-free coating"
+    },
+    {
+      "name": "Organic Wool Throw Blanket",
+      "price": 89,
+      "description": "Luxurious throw blanket made from ethically sourced organic wool. Natural temperature regulation.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Ethically sourced wool, natural dyes"
+    },
+    {
+      "name": "Solar Bluetooth Speaker",
+      "price": 67,
+      "description": "Waterproof Bluetooth speaker with solar charging panel. 20-hour battery life.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop",
+      "sustainability": "Solar charging, recycled plastic housing"
+    },
+    {
+      "name": "Hemp Protein Smoothie Mix",
+      "price": 35,
+      "description": "Organic hemp protein powder with superfoods. Chocolate-vanilla flavor, 30 servings.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop",
+      "sustainability": "Organic hemp protein, minimal processing"
+    },
+    {
+      "name": "Recycled Plastic Outdoor Furniture",
+      "price": 156,
+      "description": "Weather-resistant outdoor chair made from recycled ocean plastic. UV and fade resistant.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Made from 100% recycled ocean plastic"
+    },
+    {
+      "name": "Organic Essential Oil Set",
+      "price": 44,
+      "description": "Set of 6 pure essential oils: lavender, peppermint, eucalyptus, tea tree, lemon, and orange.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "Organic extraction, recyclable glass bottles"
+    },
+    {
+      "name": "Bamboo Cutting Board Set",
+      "price": 36,
+      "description": "Set of 3 bamboo cutting boards in different sizes. Naturally antimicrobial and knife-friendly.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable bamboo, naturally antimicrobial"
+    },
+    {
+      "name": "Eco-Friendly Laundry Detergent",
+      "price": 21,
+      "description": "Concentrated plant-based laundry detergent. 64 loads in recyclable packaging.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Plant-based formula, concentrated formula"
+    },
+    {
+      "name": "Organic Cotton Meditation Cushion",
+      "price": 48,
+      "description": "Comfortable meditation cushion filled with organic buckwheat hulls. Removable cover.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1506629905607-45e5959ee862?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton cover, natural buckwheat fill"
+    },
+    {
+      "name": "Solar Lantern Set",
+      "price": 42,
+      "description": "Set of 3 collapsible solar lanterns. Waterproof with multiple brightness settings.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, long-lasting LED bulbs"
+    },
+    {
+      "name": "Organic Fair Trade Chocolate",
+      "price": 18,
+      "description": "Dark chocolate bar made from organic cacao. 70% cocoa content, ethically sourced.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1564671165093-20688ff1fffa?w=400&h=400&fit=crop",
+      "sustainability": "Fair trade certified, organic cacao"
+    },
+    {
+      "name": "Recycled Aluminum Laptop Stand",
+      "price": 59,
+      "description": "Adjustable laptop stand made from recycled aluminum. Improves ergonomics and airflow.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "100% recycled aluminum, minimal packaging"
+    },
+    {
+      "name": "Natural Fiber Car Seat Covers",
+      "price": 78,
+      "description": "Set of eco-friendly car seat covers made from organic cotton and hemp blend.",
+      "category": "Automotive",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton-hemp blend, machine washable"
+    },
+    {
+      "name": "Biodegradable Trash Bags",
+      "price": 16,
+      "description": "Pack of 50 compostable trash bags. Strong and leak-proof, breaks down in 90 days.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+      "sustainability": "Compostable in 90 days, plant-based material"
+    },
+    {
+      "name": "Organic Herbal Tea Collection",
+      "price": 29,
+      "description": "Collection of 8 organic herbal teas in biodegradable sachets. Includes chamomile, ginger, and more.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+      "sustainability": "Organic herbs, biodegradable tea sachets"
+    },
+    {
+      "name": "Sustainable Cork Flooring Sample",
+      "price": 15,
+      "description": "Cork flooring sample pack showing different textures and colors. Sustainable flooring option.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Renewable cork harvest, carbon negative"
+    },
+    {
+      "name": "Organic Cotton Pet Bed",
+      "price": 52,
+      "description": "Comfortable pet bed with organic cotton cover and recycled fiber fill. Machine washable.",
+      "category": "Pet Care",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton, recycled fiber filling"
+    },
+    {
+      "name": "Solar Phone Charger",
+      "price": 38,
+      "description": "Portable solar phone charger with 10000mAh battery. Charges 2 devices simultaneously.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop",
+      "sustainability": "Solar charging, reduces grid electricity use"
+    },
+    {
+      "name": "Organic Quinoa Pasta",
+      "price": 12,
+      "description": "Gluten-free pasta made from organic quinoa flour. High protein and nutrient dense.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1564671165093-20688ff1fffa?w=400&h=400&fit=crop",
+      "sustainability": "Organic quinoa, minimal processing"
+    },
+    {
+      "name": "Recycled Paper Desk Calendar",
+      "price": 14,
+      "description": "Monthly desk calendar made from recycled paper. Soy-based ink printing.",
+      "category": "Office",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "sustainability": "100% recycled paper, soy-based inks"
+    },
+    {
+      "name": "Natural Rubber Exercise Ball",
+      "price": 45,
+      "description": "65cm exercise ball made from natural latex rubber. Includes pump and exercise guide.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1506629905607-45e5959ee862?w=400&h=400&fit=crop",
+      "sustainability": "Natural latex rubber, biodegradable"
+    },
+    {
+      "name": "Organic Coconut Oil Set",
+      "price": 26,
+      "description": "Set of 3 organic coconut oils: cooking, skincare, and hair care. Cold-pressed and unrefined.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "Organic coconuts, sustainable harvesting"
+    },
+    {
+      "name": "Bamboo Fiber Dinnerware Set",
+      "price": 41,
+      "description": "Complete 16-piece dinnerware set made from bamboo fiber. Dishwasher safe and lightweight.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=400&fit=crop",
+      "sustainability": "Bamboo fiber composite, plastic-free"
+    },
+    {
+      "name": "Electric Bike Conversion Kit",
+      "price": 299,
+      "description": "Convert your regular bike to electric with this eco-friendly kit. 40-mile range per charge.",
+      "category": "Automotive",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=400&h=400&fit=crop",
+      "sustainability": "Promotes clean transportation, energy efficient"
+    },
+    {
+      "name": "Organic Cotton Workout Clothes",
+      "price": 65,
+      "description": "Complete workout outfit made from organic cotton blend. Moisture-wicking and breathable.",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton blend, natural moisture-wicking"
+    },
+    {
+      "name": "Solar Garden Fountain",
+      "price": 125,
+      "description": "Decorative solar-powered water fountain for gardens. Multiple water patterns available.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, promotes water circulation"
+    },
+    {
+      "name": "Eco-Friendly Paint Set",
+      "price": 32,
+      "description": "Non-toxic paint set with natural pigments. Includes brushes made from recycled materials.",
+      "category": "Arts & Crafts",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+      "sustainability": "Natural pigments, non-toxic formula"
+    },
+    {
+      "name": "Organic Mattress Protector",
+      "price": 58,
+      "description": "Waterproof mattress protector made from organic cotton with natural latex backing.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton, natural latex waterproofing"
+    },
+    {
+      "name": "Recycled Plastic Outdoor Rug",
+      "price": 76,
+      "description": "Durable outdoor rug made from recycled plastic bottles. UV resistant and easy to clean.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Made from 120 recycled plastic bottles"
+    },
+    {
+      "name": "Natural Deodorant Set",
+      "price": 22,
+      "description": "Set of 3 aluminum-free deodorants with different natural scents. Long-lasting protection.",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+      "sustainability": "Natural ingredients, plastic-free packaging"
+    },
+    {
+      "name": "Solar Weather Station",
+      "price": 89,
+      "description": "Complete weather monitoring station powered by solar panel. Tracks temperature, humidity, and more.",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, helps monitor local climate"
+    },
+    {
+      "name": "Organic Mushroom Growing Kit",
+      "price": 31,
+      "description": "Complete kit to grow oyster mushrooms at home. Includes substrate and detailed instructions.",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+      "sustainability": "Promotes local food production, reduces packaging"
+    },
+    {
+      "name": "Biodegradable Dog Waste Bags",
+      "price": 13,
+      "description": "Pack of 200 compostable dog waste bags. Strong and leak-proof, breaks down naturally.",
+      "category": "Pet Care",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=400&h=400&fit=crop",
+      "sustainability": "Compostable material, reduces plastic waste"
+    },
+    {
+      "name": "Hemp Fiber Insulation Panels",
+      "price": 45,
+      "description": "Natural insulation panels made from hemp fiber. Fire-resistant and mold-resistant.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "sustainability": "Hemp fiber, carbon negative material"
+    },
+    {
+      "name": "Organic Superfood Energy Bars",
+      "price": 28,
+      "description": "Pack of 12 energy bars with organic superfoods: chia, goji berries, and cacao.",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1564671165093-20688ff1fffa?w=400&h=400&fit=crop",
+      "sustainability": "Organic superfoods, minimal packaging"
+    },
+    {
+      "name": "Recycled Glass Light Fixtures",
+      "price": 94,
+      "description": "Beautiful pendant light made from recycled wine bottles. Unique colors and textures.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "100% recycled glass, handcrafted design"
+    },
+    {
+      "name": "Natural Cork Yoga Block Set",
+      "price": 33,
+      "description": "Set of 2 yoga blocks made from sustainable cork. Lightweight and naturally antimicrobial.",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400&h=400&fit=crop",
+      "sustainability": "Sustainable cork harvest, naturally antimicrobial"
+    },
+    {
+      "name": "Organic Baby Food Maker",
+      "price": 85,
+      "description": "Steam and blend baby food maker. BPA-free components for making fresh, organic baby food.",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=400&fit=crop",
+      "sustainability": "BPA-free materials, promotes fresh food"
+    },
+    {
+      "name": "Solar Pool Heater",
+      "price": 189,
+      "description": "Solar pool heating system that extends swimming season. Easy installation and maintenance-free.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400&h=400&fit=crop",
+      "sustainability": "Solar powered, reduces energy consumption"
+    },
+    {
+      "name": "Organic Cotton Beach Towel",
+      "price": 39,
+      "description": "Large beach towel made from organic cotton. Quick-dry and sand-resistant weave.",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "sustainability": "Organic cotton, natural quick-dry properties"
+    }
+  ]
+}
