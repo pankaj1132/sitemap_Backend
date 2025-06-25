@@ -17,6 +17,11 @@ app.use(express.json());
 mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/sustainable-marketplace')
   .then(() => console.log('MongoDB connected'))
   .catch(err => console.error(err));
+  
+// Home route
+app.get('/', (req, res) => {
+  res.send('Hello World');
+});
 
 app.use('/api/products', productRoutes);
 app.use('/api/cart', cartRoutes);
